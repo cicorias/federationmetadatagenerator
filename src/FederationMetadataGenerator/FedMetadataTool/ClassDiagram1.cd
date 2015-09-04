@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CedarLogic.Identity.AttributeName" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AttributeName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.Contact" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAEAAAEAAAAAAAAAAAAAAAAJAAAAAA=</HashCode>
+      <FileName>Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.Form1" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAwAACIAAhgJAACAAAAKAAIEAAAaAIAAAaAQIAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.CertificateHelper" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Helpers\CertificateHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.LocalCertificatesConverter" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Helpers\LocalCertificatesConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.MetadataHelperExtensions" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\MetadataHelperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.MetadataHelper" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAhAIgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetadataHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.MetadataDescriptor" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAKAAAAAAAAEAAAAAAAAAAAAAQAAAAAAgAA=</HashCode>
+      <FileName>MetadataTypes\MetadataDescriptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.SamlData" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAGAAABAAAAAAIAAAAAAAAAgAAAAAAAAIAA=</HashCode>
+      <FileName>MetadataTypes\SamlData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.SamlIdpData" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>MetadataTypes\SamlIdpData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.SamlSpData" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetadataTypes\SamlSpData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.StsData" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAACAAAAAABAAAQAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MetadataTypes\StsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CedarLogic.Identity.ClaimItem" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAAgEQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetadataTypes\StsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
